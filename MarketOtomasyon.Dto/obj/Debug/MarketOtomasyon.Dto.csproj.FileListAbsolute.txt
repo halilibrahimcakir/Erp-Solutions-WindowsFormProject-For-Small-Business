@@ -1,0 +1,12 @@
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Dto\bin\Debug\MarketOtomasyon.Dto.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Dto\bin\Debug\MarketOtomasyon.Dto.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.csprojAssemblyReference.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Dto\bin\Debug\MarketOtomasyon.Dto.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Dto\bin\Debug\MarketOtomasyon.Dto.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.csproj.AssemblyReference.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Dto\obj\Debug\MarketOtomasyon.Dto.pdb

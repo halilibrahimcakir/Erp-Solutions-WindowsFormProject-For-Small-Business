@@ -1,0 +1,12 @@
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Businees\bin\Debug\MarketOtomasyon.Businees.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Businees\bin\Debug\MarketOtomasyon.Businees.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.csprojAssemblyReference.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Businees\bin\Debug\MarketOtomasyon.Businees.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Businees\bin\Debug\MarketOtomasyon.Businees.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.csproj.AssemblyReference.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Businees\obj\Debug\MarketOtomasyon.Businees.pdb

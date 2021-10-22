@@ -1,0 +1,24 @@
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\MarketOtomasyon.Data.dll.config
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\MarketOtomasyon.Data.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\MarketOtomasyon.Data.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\EntityFramework.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\EntityFramework.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.csprojAssemblyReference.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.csproj.CopyComplete
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\MarketOtomasyon.Data.dll.config
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\MarketOtomasyon.Data.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\MarketOtomasyon.Data.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\EntityFramework.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\EntityFramework.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.csproj.AssemblyReference.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.csproj.CopyComplete
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.Data\obj\Debug\MarketOtomasyon.Data.pdb

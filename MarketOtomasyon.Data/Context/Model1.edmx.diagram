@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3165d9882c3e4b98a232fb6deb2b4b17" Name="Diagram1">
+        <EntityTypeShape EntityType="MarketBarkodDBModel.Categories" Width="1.5" PointX="3.75" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.Customers" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.CustomerSummary" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.Employee" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.EmployeeType" Width="1.5" PointX="1.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.Invoce" Width="1.5" PointX="3" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.PaymentType" Width="1.5" PointX="3.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.Products" Width="1.5" PointX="6" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.PurchaseOrder" Width="1.5" PointX="6" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.PurchaseOrderDetail" Width="1.5" PointX="8.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.PurchaseOrderStatus" Width="1.5" PointX="3.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MarketBarkodDBModel.Suppliers" Width="1.5" PointX="3.75" PointY="21.875" IsExpanded="true" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_Products_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_CustomerSummary_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_Invoce_Invoce" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrder_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_Employees_EmployeeType" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrder_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrder_PaymentType" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_Products_Suppliers" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrderDetail_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrder_PurchaseOrderStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrderDetail_PurchaseOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="MarketBarkodDBModel.FK_PurchaseOrderDetail_PurchaseOrderDetail" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

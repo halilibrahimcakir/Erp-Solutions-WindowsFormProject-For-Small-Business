@@ -1,0 +1,178 @@
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.UI.Windows.exe.config
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.UI.Windows.exe
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.UI.Windows.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Businees.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Dto.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Service.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Businees.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Dto.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Service.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Service.dll.config
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csprojAssemblyReference.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.Properties.Resources.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.GenerateResource.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.exe.licenses
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.CopyComplete
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.exe
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.Login.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.Main.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.SellItem.SellMain.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.CaseItem.CaseMain.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.AdminItem.AdminMain.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ChargeSaleItem.ChargeSaleMain.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ProductItem.ProductMain.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Data.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\AutoMapper.dll
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Data.pdb
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Data.dll.config
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\bin\Debug\AutoMapper.xml
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.SellItem.OnCredit.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.CaseItem.CaseEdit.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ProductItem.ProductEdit.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ProductItem.NewProduct.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ChargeSaleItem.CustomerEdit.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ChargeSaleItem.NewCustomer.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.AdminItem.EmployeeEdit.resources
+C:\Users\DESER\Desktop\OKUL\Programlama\ödev\proje ödevi\MarketOtomasyon\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.AdminItem.NewEmployee.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.UI.Windows.exe.config
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.UI.Windows.exe
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.UI.Windows.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Businees.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Dto.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Service.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Data.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\AutoMapper.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Businees.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Dto.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Service.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Service.dll.config
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Data.pdb
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\MarketOtomasyon.Data.dll.config
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\AutoMapper.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.AssemblyReference.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.AdminItem.AdminMain.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.AdminItem.EmployeeEdit.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.AdminItem.NewEmployee.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.CaseItem.CaseEdit.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.CaseItem.CaseMain.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ChargeSaleItem.ChargeSaleMain.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ChargeSaleItem.CustomerEdit.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ChargeSaleItem.NewCustomer.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.Login.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.Main.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ProductItem.NewProduct.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ProductItem.ProductEdit.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.ProductItem.ProductMain.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.Properties.Resources.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.SellItem.OnCredit.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.SellItem.SellMain.resources
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.GenerateResource.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.exe.licenses
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.CoreCompileInputs.cache
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.csproj.CopyComplete
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.exe
+C:\Users\DESER\Desktop\C#\MarketOtomasyon - DevExpress\MarketOtomasyon.UI.Windows\obj\Debug\MarketOtomasyon.UI.Windows.pdb
